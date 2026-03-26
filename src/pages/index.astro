@@ -1,0 +1,70 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PizzaCalculator from '../components/PizzaCalculator';
+---
+
+<BaseLayout>
+  <main class="min-h-screen px-6 py-16 sm:px-10">
+    <div class="mx-auto flex min-h-[calc(100vh-8rem)] w-full max-w-3xl flex-col">
+      <header class="space-y-3">
+        <h1 class="text-4xl font-semibold sm:text-5xl">Ben Lewis</h1>
+      </header>
+
+      <section class="mt-8 max-w-2xl space-y-4 text-lg">
+        <p>
+          Welcome to my personal website. This site may look mostly blank, but{' '}
+          <a href="/this-page" class="link-no-shift-bold">this page</a>{' '}
+          says otherwise.
+        </p>
+        <p>Use the links in the footer to get in touch.</p>
+      </section>
+
+      <PizzaCalculator client:visible />
+
+      <footer
+        class="mt-auto pt-10"
+        style="border-top: 1px solid var(--color-border)"
+      >
+        <div class="flex items-center justify-end gap-5" style="color: var(--color-text)">
+          <a
+            href="https://github.com/Benny-Lewis"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="GitHub"
+            title="GitHub"
+            class="footer-icon inline-flex items-center justify-center transition-colors focus:outline-none focus-visible:ring-2"
+          >
+            <svg
+              aria-hidden="true"
+              viewBox="0 0 24 24"
+              class="h-7 w-7"
+              fill="currentColor"
+            >
+              <path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.093.682-.217.682-.483 0-.237-.009-.866-.014-1.699-2.782.605-3.369-1.343-3.369-1.343-.454-1.157-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.071 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.091-.647.349-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.254-.446-1.273.098-2.655 0 0 .839-.269 2.75 1.026A9.562 9.562 0 0 1 12 6.844a9.56 9.56 0 0 1 2.504.337c1.909-1.295 2.747-1.026 2.747-1.026.546 1.382.203 2.401.1 2.655.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.31.678.921.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .269.18.58.688.481A10.02 10.02 0 0 0 22 12.017C22 6.484 17.523 2 12 2Z" />
+            </svg>
+          </a>
+          <a
+            href="mailto:ben@benlewis.xyz"
+            aria-label="Email"
+            title="Email"
+            class="footer-icon inline-flex items-center justify-center transition-colors focus:outline-none focus-visible:ring-2"
+          >
+            <svg
+              aria-hidden="true"
+              viewBox="0 0 24 24"
+              class="h-7 w-7"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <rect x="3" y="5" width="18" height="14" rx="2" />
+              <path d="m3 7 9 6 9-6" />
+            </svg>
+          </a>
+        </div>
+      </footer>
+    </div>
+  </main>
+</BaseLayout>

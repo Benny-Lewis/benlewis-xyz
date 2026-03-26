@@ -1,0 +1,56 @@
+:root {
+  /* Shared tokens */
+  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-serif: Georgia, 'Times New Roman', serif;
+
+  /* Spacing scale */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+  --space-xl: 4rem;
+
+  /* Transition defaults */
+  --transition-fast: 150ms ease;
+  --transition-normal: 300ms ease;
+
+  /* Warm paper palette */
+  --paper: #f6f3eb;
+  --paper-shadow: #f2e8d6;
+  --surface: #f9f7f1;
+
+  /* Structure */
+  --border-subtle: #d9cfbf;
+  --border: #aea699;
+  --border-input: #a39b8f;
+
+  /* Text */
+  --text: #3d3c42;
+  --text-muted: #60505d;
+
+  /* Accent */
+  --accent: #b36a47;
+  --accent-strong: #9e5d3e;
+  --accent-dark: #7a3f26;
+  --accent-tint: #e2caba;
+  --accent-tint-soft: #e9d8ca;
+
+  /* Compatibility tokens used by existing components */
+  --color-bg: var(--paper-shadow);
+  --color-card-bg: var(--paper);
+  --color-surface: var(--surface);
+  --color-text: var(--text);
+  --color-body: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-primary: var(--accent);
+  --color-primary-hover: var(--accent-strong);
+  --color-primary-visited: var(--accent-dark);
+  --color-on-primary: #ffffff;
+  --color-accent-soft: var(--accent-tint);
+  --color-accent-subtle: var(--accent-tint-soft);
+  --color-border-subtle: var(--border-subtle);
+  --color-border: var(--border);
+  --color-border-input: var(--border-input);
+  --color-surface-strong: #0f0e0d;
+  --color-accent: var(--accent);
+}
