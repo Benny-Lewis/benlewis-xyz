@@ -1,4 +1,4 @@
-# benlewis.xyz
+# benlewis.fyi
 
 ## Stack
 - Astro 6 (static output, no SSR adapter)
@@ -9,11 +9,12 @@
 ## Commands
 - `npm run dev` — local dev server
 - `npm run build` — build to `dist/`
-- `npx wrangler pages deploy dist --project-name benlewis-xyz` — deploy to Cloudflare Pages
+- `npx wrangler pages deploy dist --project-name benlewis-fyi` — deploy to Cloudflare Pages
 
 ## Hosting & Services
 - Cloudflare Pages (static deploy via wrangler CLI, GitHub auto-deploy not yet connected)
-- Cloudflare Email Routing: ben@benlewis.xyz → Gmail
+- Cloudflare Email Routing: ben@benlewis.fyi → Gmail
+- Old domain benlewis.xyz redirects to benlewis.fyi (email routing still active on both)
 - Domain DNS on Cloudflare
 
 ## Design
