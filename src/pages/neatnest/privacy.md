@@ -6,7 +6,7 @@ title: Privacy Policy
 # NeatNest Privacy Policy
 
 **Version:** v1 (effective 2026-04-18)
-**Contact:** neatnest-feedback@benlewis.fyi
+**Contact:** ben@benlewis.fyi
 
 NeatNest is operated by Ben Lewis ("we"). This policy explains what data the NeatNest app ("NeatNest") collects, how it is used, and the choices you have.
 
@@ -45,7 +45,7 @@ Account deletion is available in-app from **Settings → Danger zone → Delete 
 - Photos from those households
 - Household memberships you held
 
-In rare cases, a deletion can partially fail — for example, a transient storage cleanup error might leave one or more photo objects behind. When this happens, the app surfaces a clear error with a support contact link (neatnest-feedback@benlewis.fyi). The underlying database records are always removed first; any residue is storage-only.
+In rare cases, a deletion can partially fail — for example, a transient storage cleanup error might leave one or more photo objects behind. When this happens, the app surfaces a clear error with a support contact link (ben@benlewis.fyi). The underlying database records are always removed first; any residue is storage-only.
 
 **What is NOT deleted:** items and photos you created while sharing a household with other members who still have that household. Those items stay with the surviving household so the remaining members don't lose shared data. Authorship metadata on those rows is cleared — surviving household members will see the items but will no longer see your name as the creator. If you want a photo specifically removed from a surviving household, contact us.
 
@@ -59,7 +59,7 @@ California residents have the right to:
 - Opt out of the sale or sharing of personal information
 - Limit the use or disclosure of sensitive personal information (SPI)
 
-We **do not sell or share** personal information within the meaning of CCPA. NeatNest does not use photos or other collected data beyond the purposes described in Section 2, so no SPI-limiting action is currently required to honor the right above; you may still exercise it as a matter of record. To exercise any right not covered by in-app deletion, contact neatnest-feedback@benlewis.fyi.
+We **do not sell or share** personal information within the meaning of CCPA. NeatNest does not use photos or other collected data beyond the purposes described in Section 2, so no SPI-limiting action is currently required to honor the right above; you may still exercise it as a matter of record. To exercise any right not covered by in-app deletion, contact ben@benlewis.fyi.
 
 Data categories we collect under CCPA taxonomy: **identifiers** (email), **commercial information** (item inventory you track), **visual information** (photos), **internet or network activity** (crash telemetry).
 
@@ -77,7 +77,7 @@ For users in the EU / UK:
 
 ## 7. Children
 
-NeatNest is rated **12+** in the App Store and is not directed to children under 13. We do not knowingly collect personal information from children under 13 (or 16 in the EU, where applicable). The 12+ App Store rating reflects content suitability; the minimum age to create a NeatNest account is 13 (see Terms of Service §1) to comply with COPPA. If you believe a child has provided us personal information, contact neatnest-feedback@benlewis.fyi and we will delete it.
+NeatNest is rated **12+** in the App Store and is not directed to children under 13. We do not knowingly collect personal information from children under 13 (or 16 in the EU, where applicable). The 12+ App Store rating reflects content suitability; the minimum age to create a NeatNest account is 13 (see Terms of Service §1) to comply with COPPA. If you believe a child has provided us personal information, contact ben@benlewis.fyi and we will delete it.
 
 ## 8. Retention
 
@@ -90,7 +90,7 @@ NeatNest is rated **12+** in the App Store and is not directed to children under
 Questions, corrections, or data-subject requests:
 
 Ben Lewis
-neatnest-feedback@benlewis.fyi
+ben@benlewis.fyi
 
 ## 10. Changes
 

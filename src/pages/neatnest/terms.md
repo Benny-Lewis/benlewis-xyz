@@ -15,7 +15,7 @@ You must be at least **13 years old** (or 16 in the EU, where required) to creat
 
 ## 2. Account responsibility
 
-You are responsible for keeping your credentials secure. Notify us at neatnest-feedback@benlewis.fyi if you suspect unauthorized access.
+You are responsible for keeping your credentials secure. Notify us at ben@benlewis.fyi if you suspect unauthorized access.
 
 ## 3. Acceptable use
 
@@ -61,7 +61,7 @@ These Terms are governed by the laws of the State of California, United States, 
 
 ## 12. Arbitration
 
-Any dispute arising out of these Terms or the use of NeatNest will be resolved by **binding arbitration** administered by JAMS under its Streamlined Arbitration Rules, on an individual (non-class) basis. Small-claims court actions are exempted. You may opt out of this clause by emailing neatnest-feedback@benlewis.fyi within 30 days of account creation or within 30 days of the effective date of these Terms, whichever is later.
+Any dispute arising out of these Terms or the use of NeatNest will be resolved by **binding arbitration** administered by JAMS under its Streamlined Arbitration Rules, on an individual (non-class) basis. Small-claims court actions are exempted. You may opt out of this clause by emailing ben@benlewis.fyi within 30 days of account creation or within 30 days of the effective date of these Terms, whichever is later.
 
 **Class-action waiver.** You and the operator each agree to bring claims against the other only in your or its individual capacity, and not as a plaintiff or class member in any purported class, collective, representative, or private attorney general action. The arbitrator may not consolidate more than one person's claims and may not otherwise preside over any form of a representative or class proceeding.
 
@@ -72,6 +72,6 @@ We will update the version stamp at the top of this document when these Terms ch
 ## 14. Contact
 
 Ben Lewis
-neatnest-feedback@benlewis.fyi
+ben@benlewis.fyi
 
 The current public URL is `https://benlewis.fyi/neatnest/terms`.
